@@ -1,0 +1,14 @@
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\bin\Debug\netcoreapp3.1\StudentsObjects.exe
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\bin\Debug\netcoreapp3.1\StudentsObjects.deps.json
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\bin\Debug\netcoreapp3.1\StudentsObjects.runtimeconfig.json
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\bin\Debug\netcoreapp3.1\StudentsObjects.runtimeconfig.dev.json
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\bin\Debug\netcoreapp3.1\StudentsObjects.dll
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\bin\Debug\netcoreapp3.1\StudentsObjects.pdb
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\obj\Debug\netcoreapp3.1\StudentsObjects.csproj.AssemblyReference.cache
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\obj\Debug\netcoreapp3.1\StudentsObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\obj\Debug\netcoreapp3.1\StudentsObjects.AssemblyInfoInputs.cache
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\obj\Debug\netcoreapp3.1\StudentsObjects.AssemblyInfo.cs
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\obj\Debug\netcoreapp3.1\StudentsObjects.csproj.CoreCompileInputs.cache
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\obj\Debug\netcoreapp3.1\StudentsObjects.dll
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\obj\Debug\netcoreapp3.1\StudentsObjects.pdb
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\obj\Debug\netcoreapp3.1\StudentsObjects.genruntimeconfig.cache

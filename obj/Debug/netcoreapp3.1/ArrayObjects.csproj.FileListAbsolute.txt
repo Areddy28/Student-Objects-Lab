@@ -1,0 +1,14 @@
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\bin\Debug\netcoreapp3.1\ArrayObjects.exe
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\bin\Debug\netcoreapp3.1\ArrayObjects.deps.json
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\bin\Debug\netcoreapp3.1\ArrayObjects.runtimeconfig.json
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\bin\Debug\netcoreapp3.1\ArrayObjects.runtimeconfig.dev.json
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\bin\Debug\netcoreapp3.1\ArrayObjects.dll
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\bin\Debug\netcoreapp3.1\ArrayObjects.pdb
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\obj\Debug\netcoreapp3.1\ArrayObjects.csproj.AssemblyReference.cache
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\obj\Debug\netcoreapp3.1\ArrayObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\obj\Debug\netcoreapp3.1\ArrayObjects.AssemblyInfoInputs.cache
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\obj\Debug\netcoreapp3.1\ArrayObjects.AssemblyInfo.cs
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\obj\Debug\netcoreapp3.1\ArrayObjects.csproj.CoreCompileInputs.cache
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\obj\Debug\netcoreapp3.1\ArrayObjects.dll
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\obj\Debug\netcoreapp3.1\ArrayObjects.pdb
+C:\Users\areddy1\source\repos\ArrayObjects\ArrayObjects\obj\Debug\netcoreapp3.1\ArrayObjects.genruntimeconfig.cache
